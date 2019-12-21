@@ -1,0 +1,8 @@
+crie um software de gerenciamento bancario,
+esse software sera capaz de criar:
+CLIENTES E CONTAS
+
+CADAS CLIENTE
+ POSSUI NOME, CPF, IDADE.
+CADA CONTA POSSUI
+UM CLIENTE, UM SALDO, UM LIMITE NEGATIVO, E METODOS, SACAR E DEPOSITAR, E CONSULTAR SALDO.
